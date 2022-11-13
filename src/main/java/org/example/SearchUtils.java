@@ -11,4 +11,8 @@ public class SearchUtils {
 
         return -1;
     }
+
+    public static int[] binarySearch(int [] array, int elem) {
+        return array;
+    }
 }
